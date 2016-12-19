@@ -1,0 +1,2 @@
+# Live2D_Instancing
+ここにLive2D Modelファイルとテクスチャを配置する
