@@ -2,6 +2,8 @@
 Live2D WebGL版でインスタンシングするサンプルです。
 Live2D公式サンプルからモデルをDownloadしてきてassets配下にセットすれば使えます。
 
+[Qiita - Live2D WebGLのインスタンシングで遊んでみる♪](https://qiita.com/naotaro0123/items/749125780700c9763dc6)
+
 Live2D公式サンプルモデル http://sites.cybernoids.jp/cubism2/samples
 
 ただ、こちらのソースはsafariでは動作しますが、chromeとfirefoxでは上手く描画できてないです。
