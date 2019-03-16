@@ -7,8 +7,8 @@ Live2D公式サンプルからモデルをDownloadしてきてassets配下にセ
 Live2D公式サンプルモデル http://sites.cybernoids.jp/cubism2/samples
 
 ただ、こちらのソースはsafariでは動作しますが、chromeとfirefoxでは上手く描画できてないです。
+
 （chormeは何も描画されない、firefoxは一部のパーツだけ描画される）
 
 行列計算ライブラリはwgld.orgのminMatrixb.jsをお借りしています(http://wgld.org/d/library/l001.html)
 
-<video src="https://video.twimg.com/tweet_video/C0C3hHRVIAAxp5A.mp4"></video>
