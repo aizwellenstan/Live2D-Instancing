@@ -10,5 +10,5 @@ Live2D公式サンプルモデル http://sites.cybernoids.jp/cubism2/samples
 （chormeは何も描画されない、firefoxは一部のパーツだけ描画される）
 
 行列計算ライブラリはwgld.orgのminMatrixb.jsをお借りしています(http://wgld.org/d/library/l001.html)
-<img src="http://simplecode.jp/lolipop/github/Live2D_Instancing.gif">
 
+<video src="https://video.twimg.com/tweet_video/C0C3hHRVIAAxp5A.mp4"></video>
