@@ -1,4 +1,4 @@
-# Live2D_Instancing
+# Live2D-Instancing
 Live2D WebGL版でインスタンシングするサンプルです。
 Live2D公式サンプルからモデルをDownloadしてきてassets配下にセットすれば使えます。
 
